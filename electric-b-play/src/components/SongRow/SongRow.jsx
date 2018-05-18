@@ -15,7 +15,7 @@ const artistStyle={
 };
 
 class SongRow extends Component {
-    constructor(props){
+    constructor(props) {
         super(props);
         this.state = {
             selected:false,
